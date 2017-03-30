@@ -1,38 +1,43 @@
-# Snaps and Inferences
 
-----
 
-Use these built-in capabilities to create more accurate designs.
- 
-* To make sketching and modeling easier, use snaps and inference points to accurately create, place, and edit geometry. You can use whatever axis you choose as the axis on which to draw or execute another action, such as extruding a surface. 
-    
-    ![](Images/GUID-F944DE2D-DFAB-40E1-83FA-687264C616C1-low.png)
+# Objektfang und Ableitungen
 
-*Snapping*
+---
 
-There are several snaps that can aid you while you are sketching and modeling. Snapping to objects is automatically enabled, and you can snap to:
+Diese integrierten Funktionen ermöglichen noch mehr Präzision beim Erstellen von Entwürfen.
 
-* On Edge
-* On Midpoint
-* Endpoints (On vertex)
-* On Face
-* Center of Face
-* On Ground Plane
+* Objektfang und Ableitungspunkte ermöglichen eine präzise Erstellung, Platzierung und Bearbeitung von Geometrie und erleichtern dadurch das Skizzieren und Modellieren. Sie können die Achse wählen, entlang derer Sie zeichnen oder eine andere Funktion ausführen möchten, etwa das Extrudieren einer Oberfläche.
 
-To snap to the grid, you must enable the Snap to Grid toggle from the Settings menu.
+![](Images/GUID-F944DE2D-DFAB-40E1-83FA-687264C616C1-low.png)
 
-*Inference Points*
+*Objektfang*
 
-Automatic selection of inference points is always enabled and will help you constrain the movement of geometry.
+Beim Skizzieren und Modellieren stehen mehrere Objektfangfunktionen zur Verfügung. Der Objektfang für Objekte ist automatisch aktiviert. Die folgenden Fangreferenzen sind verfügbar:
 
-* You can move geometry along the X, Y, or Z axis. The X-axis inference is red, the Y-axis is green, and the Z-axis is blue. 
-    
-    ![](Images/GUID-B2B8F57A-33AC-4C83-9B6C-905D80412915-low.png)
-* You can also move geometry parallel or perpendicular to existing elements. Parallel and perpendicular inferences are purple. 
-    
-    ![](Images/GUID-ED76B8FE-4083-4C9B-963C-FBC1D705CADC-low.png)
-* Extending from a point: You can also use inferences to extend from a point reference. 
-    
-    ![](Images/GUID-BDDC9043-3E81-4B5F-8219-749BBD6689DE-low.png)
+* Kante
+* Mittelpunkt
+* Endpunkte (Scheitelpunkt)
+* Fläche
+* Zentrum auf Fläche
+* Grundplatte
 
-Extending from a point: You can also use inferences to extend from a point reference. Hover the mouse over a point you want to use as a reference until the tooltip appears, then use the inference axis that extends from the point.
+Damit Sie den Objektfang am Raster verwenden können, müssen Sie die Option Rasterfang aus dem Menü Einstellungen aktivieren.
+
+*Ableitungspunkte*
+
+Die automatische Auswahl für Ableitungspunkte ist immer aktiviert und unterstützt Sie dabei, die Bewegungsmöglichkeiten für Geometrie einzuschränken.
+
+* Sie können Geometrie entlang der X-, Y- oder Z-Achse verschieben. Die Ableitung für die X-Achse ist rot, für die Y-Achse grün und für die Z-Achse blau.
+
+![](Images/GUID-B2B8F57A-33AC-4C83-9B6C-905D80412915-low.png)
+
+* Es ist außerdem möglich, Geometrie parallel oder lotrecht zu vorhandenen Elementen zu verschieben. Parallele und lotrechte Ableitungen sind violett.
+
+![](Images/GUID-ED76B8FE-4083-4C9B-963C-FBC1D705CADC-low.png)
+
+* Von einem Punkt ausgehend: Sie können auch von einer Punktreferenz ausgehende Ableitungen verwenden.
+
+![](Images/GUID-BDDC9043-3E81-4B5F-8219-749BBD6689DE-low.png)
+
+Von einem Punkt ausgehend: Sie können auch von einer Punktreferenz ausgehende Ableitungen verwenden. Setzen Sie den Cursor auf den Punkt, den Sie als Referenz verwenden möchten, bis die QuickInfo angezeigt wird, und verwenden Sie die von diesem Punkt ausgehende Ableitungsachse.
+

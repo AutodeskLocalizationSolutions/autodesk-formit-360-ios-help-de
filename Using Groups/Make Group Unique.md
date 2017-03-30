@@ -1,8 +1,11 @@
-# Make Group Unique
 
-----
 
-Copy a set of objects and then disconnect them from the originals.
+# Gruppe eindeutig machen
 
-1. Tap on a group to select it.
-2. Display the Context Menu and tap the Make Unique icon.![](Images/GUID-456D1A2E-E90D-44DA-9F51-A8E8ADD140EF-low.png)
+---
+
+Kopieren einer Gruppe von Objekten und Lösen von den Originalen.
+
+1. Tippen Sie auf eine Gruppe, um sie auszuwählen.
+2. Zeigen Sie das Kontextmenü an, und tippen Sie auf das Symbol Als eindeutig definieren. ![](Images/GUID-456D1A2E-E90D-44DA-9F51-A8E8ADD140EF-low.png)
+

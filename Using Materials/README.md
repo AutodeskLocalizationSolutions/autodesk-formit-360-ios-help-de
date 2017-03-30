@@ -1,32 +1,32 @@
-# Using Materials
 
-----
 
-Enrich and enhance designs using Materials to add detail.
- 
+# Arbeiten mit Materialien
 
-The Material Editor is located in the right-side palette. In the Editor, you can create new materials and add them to your Material Library. To add color to a material, you can use the color picker to accurately set the tint for the material or select a predefined color swatch.
+---
 
-The widgets provided by the Materials Editor allow you to:
+Mit Materialien arbeiten Sie Ihre Entwürfe detaillierter aus, verbessern sie und gestalten sie ansprechender.
 
-## Apply a Material
+Der Material-Editor befindet sich in der Palette auf der rechten Seite. Im Editor können Sie neue Materialien erstellen und Ihrer Materialbibliothek hinzufügen. Um einem Material eine Farbe zuzuweisen, können Sie entweder mithilfe der Farbwahl den Farbton des Materials präzise festlegen oder ein vordefiniertes Farbfeld wählen.
 
-1. To apply a material, first select a face or object.
-2. Tap the tab on the right side of the screen and tap the icon for the Material Editor.
-3. Choose a material from the displayed selection, or create your own. 
-    
-    ![](Images/GUID-D0F6979D-2188-46B5-A1BF-3CE251CF918F-low.png)
+Die Widgets im Material-Editor ermöglichen die folgenden Vorgänge:
 
-When applied to the sketch, materials will be added to a list of already used materials for easy access. A material can have a texture (bitmap) and/or color. When a material has both texture and color, the two are blended together.
+## Anwenden eines Materials
 
-  
+1. Um ein Material anzuwenden, wählen Sie zuerst eine Fläche oder ein Objekt aus.
+2. Tippen Sie auf die Registerkarte an der rechten Seite des Bildschirms und dann auf das Symbol für den Material-Editor.
+3. Wählen Sie ein Material aus der angezeigten Auswahl, oder erstellen Sie ein eigenes.
 
-#### Topics in this section
+![](Images/GUID-D0F6979D-2188-46B5-A1BF-3CE251CF918F-low.png)
 
-* [Create a Material](../Create a Material.md)
-    
-    Use the Material Editor to create new materials to use in your scene.
-* [Edit a Material](../Edit a Material.md)
-    
-    Use the Material Editor to make materials appear exactly as you want.
+Wenn Materialien auf eine Skizze angewendet werden, werden sie in die Liste der bereits verwendeten Materialien aufgenommen und sind dadurch leichter verfügbar. Für ein Material kann eine Textur (Bitmap) und/oder eine Farbe vorhanden sein. Bei Materialien, die sowohl Textur als auch Farbe aufweisen, werden beide gemischt.
+
+#### Themen in diesem Abschnitt
+
+* [Erstellen eines Materials](../Create a Material.md)
+
+Verwenden Sie den Material-Editor zum Erstellen neuer Materialien für Ihre Szene.
+
+* [Bearbeiten eines Materials](../Edit a Material.md)
+
+Der Material-Editor ermöglicht es Ihnen, Materialien genau nach Ihren Vorstellungen darzustellen.
 

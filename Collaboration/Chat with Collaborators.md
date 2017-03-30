@@ -1,10 +1,12 @@
-# Chat with Collaborators
 
-----
 
-Engage in dialog as you design.
- 
+# Chatten mit Teamkollegen
 
-* Use the Messages feature in to instant message other collaborators. Just type in your message and keep track of your correspondence during the sharing session. 
-    
-    ![](Images/GUID-854D2503-24C9-4F16-ABBC-8732EC90570A-low.png)
+---
+
+Beteiligen Sie sich an Gesprächen, während Sie am Entwurf arbeiten.
+
+* Mithilfe der Messaging-Funktion können Sie Sofortnachrichten an Teamkollegen senden. Geben Sie Ihre Nachricht ein und verfolgen Sie Ihre Kommunikation während der Freigabesitzung.
+
+![](Images/GUID-854D2503-24C9-4F16-ABBC-8732EC90570A-low.png)
+

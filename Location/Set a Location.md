@@ -1,19 +1,23 @@
-# Set a Location
 
-----
 
-Establish a geographic location for your sketch.
+# Festlegen eines Standorts
 
-## Identify Your Location
+---
 
-1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) To set the location of your sketch, tap on the Location icon from the bottom action bar. You can either use the Search window to search for a specific location or use the map to browse for a location.
+Legen Sie den geografischen Standort für Ihre Skizze fest.
 
-If you use the Search window, choose the location from the list offered.
+## Standort identifizieren
 
-1. After you have found your location, adjust the zoom level so you see your desired context.
-2. Tap the map to add the red pin to your location if not already there.
-3. Tap on 'Import Satellite Image' to see the aerial photo to your location. 
-    
-    ![](Images/GUID-9D98799F-8780-4B59-95B6-F9DC6137BFF2-low.png)
-4. Zoom in or out to get the proper orientation.
-5. Tap Finish Importing to complete the operation.
+1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) Um den Standort für die Skizze festzulegen, tippen Sie in der Aktionsleiste unten auf das Symbol Standort. Sie können entweder über das Suchfenster nach einem bestimmten Standort suchen oder auf der Karte navigieren.
+
+Wenn Sie das Suchfenster verwenden, können Sie den Standort aus der angezeigten Liste wählen.
+
+1. Wenn Sie den Standort gefunden haben, passen Sie den Zoomfaktor an, um den gewünschten Kontext anzuzeigen.
+2. Tippen Sie in die Karte, um den roten Pin am Standort zu setzen, falls er noch nicht vorhanden ist.
+3. Tippen Sie auf Satellitenbild importieren, um das Luftbild für Ihren Standort anzuzeigen.
+
+![](Images/GUID-9D98799F-8780-4B59-95B6-F9DC6137BFF2-low.png)
+
+4. Vergrößern oder verkleinern Sie die Ansicht, um die gewünschte Ausrichtung zu erhalten.
+5. Tippen Sie auf Bildimport fertig stellen, um den Vorgang abzuschließen.
+

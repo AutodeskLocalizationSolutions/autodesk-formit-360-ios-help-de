@@ -1,12 +1,15 @@
-# Place Primitives
 
-----
 
-Use pre-defined shapes as design building blocks.
+# Platzieren von Grundkörpern
 
-## Place a Primitive
+---
 
-1. ![](Images/GUID-08D9B90C-BE55-4596-BFFB-3436E9D2A939-low.png)Placing primitives provides a second way to create content.
-2. Choose a primitive shape from the toolbar and tap in the drawing area to place the image. 
-    
-    ![](Images/GUID-E3146937-3317-4DBB-9DF4-91ED703E7985-low.png)
+Verwenden Sie vordefinierte Formen als Bausteine für Entwürfe.
+
+## Platzieren eines Grundkörpers
+
+1. ![](Images/GUID-08D9B90C-BE55-4596-BFFB-3436E9D2A939-low.png)Das Platzieren von Grundkörpern ist eine zweite Möglichkeit zum Erstellen von Inhalten.
+2. Wählen Sie eine Grundkörperform aus dem Werkzeugkasten und tippen Sie in den Zeichenbereich, um das Bild zu platzieren.
+
+![](Images/GUID-E3146937-3317-4DBB-9DF4-91ED703E7985-low.png)
+

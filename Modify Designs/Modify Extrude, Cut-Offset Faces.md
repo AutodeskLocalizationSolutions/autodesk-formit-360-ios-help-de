@@ -1,9 +1,12 @@
-# Modify: Extrude, Cut/Offset Faces
 
-----
 
-Push or pull a face, or imprint new shapes on existing ones, or change create new edges offset from the original ones.
+# Ändern: Extrudieren, Flächen ausschneiden/versetzen
 
-1. ![](Images/GUID-27EEBE44-4FAF-4525-9DE6-65C730389DE1-low.gif)To push and pull a face, tap a face then drag with one or two fingers. A one finger drag extrudes the face, and a two-finger drag extrudes the face while retaining the original edges. The face will move back and forth, you can drag to snap and inference points on other model elements. Tap again to finish moving the face.
-2. ![](Images/GUID-811C951B-1AEC-499A-8F20-2A98DFAD3B93-low.gif)To imprint shapes, use a 3D Sketch tool to draw lines, arcs, splines, rectangles or circles onto existing faces. This action creates new faces that can be pushed / pulled independently of the original face.
-3. ![](Images/GUID-B3FC8C8A-71D3-431B-8D12-E61BF13F4EBF-low.gif)To offset a face, after face selection, tap on the offset tool from the context menu. Then, drag over the face to create a series of edges offset from the original edges.
+---
+
+Es ist möglich, Flächen zu verschieben oder zu ziehen, neue Formen auf bestehenden anzubringen oder neue Kanten mit einem Versatz von den bestehenden zu erstellen.
+
+1. ![](Images/GUID-27EEBE44-4FAF-4525-9DE6-65C730389DE1-low.gif)Um eine Fläche zu schieben oder zu ziehen, tippen Sie darauf und ziehen Sie sie mit einem oder zwei Fingern. Durch Ziehen mit einem Finger wird die Fläche extrudiert, mit zwei Fingern wird sie unter Beibehaltung der Originalkanten extrudiert. Die Fläche wird vorwärts und rückwärts verschoben und Sie können beim Ziehen andere Modellelemente als Referenzen für Objektfang und Ableitungen nutzen. Tippen Sie erneut, um die Verschiebung der Fläche zu beenden.
+2. ![](Images/GUID-811C951B-1AEC-499A-8F20-2A98DFAD3B93-low.gif) Um Formen aufzuprägen, zeichnen Sie mithilfe eines 3D-Skizzierwerkzeugs Linien, Bogen, Splines, Rechtecke oder Kreise auf bestehende Flächen. Durch diese Aktion erstellen Sie neue Flächen, die Sie unabhängig von der Originalfläche schieben oder ziehen können.
+3. ![](Images/GUID-B3FC8C8A-71D3-431B-8D12-E61BF13F4EBF-low.gif) Um eine Fläche zu versetzen, wählen Sie diese zunächst aus und klicken Sie dann im Kontextmenü auf das Werkzeug Versetzen. Ziehen Sie dann über die Fläche, um eine gegenüber den ursprünglichen Kanten versetzte Gruppe von Kanten zu erstellen.
+

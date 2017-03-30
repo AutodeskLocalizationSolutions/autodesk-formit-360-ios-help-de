@@ -1,11 +1,14 @@
-# Project Information Reference
 
-----
 
-Name your design and keep track of its status.
+# Referenz zu Projektinformationen
 
-## Project Information Area
+---
 
-* Use the box in the upper left corner to access the A360 gallery, view the name of the current sketch, or sign into or out of your A360 account. 
-    
-    ![](Images/GUID-D7BDD290-33EB-4978-B03F-18F9F343027E-low.png)
+Benennen Sie Ihren Entwurf und überwachen Sie seinen Status.
+
+## Bereich Projektinformationen
+
+* Verwenden Sie das Feld in der oberen linken Ecke, um auf den A360-Katalog zuzugreifen, den Namen der aktuellen Skizze anzuzeigen oder sich bei Ihrem A360-Konto an- oder abzumelden.
+
+![](Images/GUID-D7BDD290-33EB-4978-B03F-18F9F343027E-low.png)
+

@@ -1,19 +1,24 @@
-# Edit a Material
 
-----
 
-Use the Material Editor to make materials appear exactly as you want.
+# Bearbeiten eines Materials
 
-The texture, color, and other properties of Materials can be modified in the Material Editor.
+---
 
-## Edit a Material
+Der Material-Editor ermöglicht es Ihnen, Materialien genau nach Ihren Vorstellungen darzustellen.
 
-1. Tap the Edit button in the Material Palette
-2. Tap the material you wish to edit
+Die Textur, die Farbe und andere Eigenschaften von Materialien können im Material-Editor bearbeitet werden.
+
+## Bearbeiten eines Materials
+
+1. Tippen Sie in der Materialpalette auf die Schaltfläche Bearbeiten.
+2. Tippen Sie auf das Material, das Sie bearbeiten möchten.
 
 3. ![](Images/GUID-1D5FFE05-ADF6-44BF-BEAF-760977A8BA7F-low.png)
 
-4. From the Edit Material window, you can change the following properties - which will update the preview image on the right. 
-    * *Texture*:Textures are images loaded from your Photo Library or camera. Once imported, you can crop, and edit the horizontal and vertical scale of the texture.
-    * *Color*: When a material has both texture and color, the two are multiplied together.
-5. Click OK to save the changes to the material.
+4. Im Fenster Material bearbeiten können Sie die folgenden Eigenschaften ändern, wobei jeweils das Vorschaubild auf der rechten Seite aktualisiert wird.
+
+* *Textur*: Texturen sind Bilder aus der Fotobibliothek oder Kamera. Nachdem Sie diese importiert haben, können Sie die Textur zuschneiden und ihren Maßstab in horizontaler und vertikaler Richtung ändern.
+* *Farbe*: Bei Materialien, die sowohl Textur als auch Farbe aufweisen, werden beide miteinander multipliziert.
+
+5. Klicken Sie auf OK, um die Änderungen am Material zu speichern.
+

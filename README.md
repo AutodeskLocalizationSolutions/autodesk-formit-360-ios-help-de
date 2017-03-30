@@ -1,1 +1,4 @@
-This FormIt Documentation book was generated automatically by Mode Lab.
+
+
+Diese Dokumentation zu FormIt wurde automatisch von Mode Lab erstellt.
+

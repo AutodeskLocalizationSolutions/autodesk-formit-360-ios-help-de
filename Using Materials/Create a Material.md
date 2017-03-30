@@ -1,36 +1,35 @@
-# Create a Material
 
-----
 
-Use the Material Editor to create new materials to use in your scene.
+# Erstellen eines Materials
 
-You can create your own materials based on custom bitmap files.
+---
 
-### Create a Material
+Verwenden Sie den Material-Editor zum Erstellen neuer Materialien für Ihre Szene.
 
-1. Tap the "+" button in the Material Palette
-2. Choose a bitmap to use for the material
+Sie können eigene Materialien aus benutzerdefinierten Bitmap-Dateien erstellen.
 
-Load an image from a file, or even take a photo with a tablet.
+### Erstellen eines Materials
+
+1. Tippen Sie auf das Pluszeichen (+) in der Materialpalette.
+2. Wählen Sie eine Bitmap für das Material.
+
+Laden Sie ein Bild aus einer Datei, oder nehmen Sie mit dem Tablet ein Foto auf.
 
 ![](Images/GUID-F571F0F3-FBF2-4B1F-8BD3-3B81413C1F69-low.png)
 
-1. Choose a color for the material. The color will blend with any bitmap that may have been loaded.
+1. Wählen Sie eine Farbe für das Material. Falls eine Bitmap geladen ist, wird die Farbe mit dieser gemischt.
 
+* Texturen werden aus der Filmrolle oder der Fotobibliothek importiert. Sie können das Mapping der importierten Textur mithilfe des Werkzeugs für den Materialzuschnitt bearbeiten. Durch Zuschneiden der Texturen können Sie den Maßstab der Kacheln in horizontaler und vertikaler Richtung in Metern oder Fuß definieren.
 
-* Textures are imported from your Camera Roll or Photo Library. Once imported, you can edit the texture's mapping using the Material Crop tool. You can crop textures to define the vertical and horizontal tile scale in meters or feet. 
-    
-    ![](Images/GUID-D845F355-9EBA-4AA9-A0F0-96B397721E49-low.jpg)
+![](Images/GUID-D845F355-9EBA-4AA9-A0F0-96B397721E49-low.jpg)
 
+## Importieren eines Autodesk-Materials ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
 
-## Import an Autodesk Material ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
+Wenn Sie das optionale [FormIt 360 Pro-Abonnement](http://www.autodesk.com/products/formit-360/try-buy) erworben haben, können Sie Materialien aus der Autodesk-Materialbibliothek importieren.
 
-If you have purchased the optional [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy), you will be able to import materials from the Autodesk Materials library.
-
-
-1. Tap Import Material from the Material Palette.
-2. From the Import Material, browse or search by name to select a material to import into the scene and tap Import.
-3. The material can now be applied or [edited](../Edit a Material.md) like any other material.
-
+1. Klicken Sie in der Materialpalette auf Material importieren.
+2. Suchen Sie unter Material importieren das gewünschte Material anhand seines Namens, um es für den Import in die Szene auszuwählen, und klicken Sie auf OK.
+3. Das Material kann jetzt wie jedes andere Material angewendet oder [bearbeitet](../Edit a Material.md) werden.
 
 ![](Images/GUID-636582A1-68FB-4DC2-8442-FD394394AFB6-low.png)
+

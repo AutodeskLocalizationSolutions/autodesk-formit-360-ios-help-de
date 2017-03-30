@@ -1,24 +1,27 @@
-# Apply Levels and Materials to a Group
 
-----
 
-A way to affect many objects at once.
- 
+# Anwenden von Ebenen und Materialien auf eine Gruppe
 
-## Apply Levels
+---
 
-1. Select an object from the group, but do not enter edit mode.
-2. Open the Properties palette.
-3. With Area by Level turned on, select Levels to set the height value for each level. 
-    
-    ![](Images/GUID-4D8C214F-76D3-4B37-8E63-EA62DE5FC2D2-low.png)
+Ein Verfahren zur gleichzeitigen Bearbeitung mehrerer Objekte
 
-## Apply a Material
+## Ebenen anwenden
 
-1. Select a group and double tap to display the Context Menu and tap Edit.![](Images/GUID-1200972C-E22F-4B84-A1FA-F2FE3F9A096E-low.png)
-2. Choose objects of faces in the group.
-3. Open the right side palette and view the Materials tab.
-4. Tap Materials to and use a material from the library or one already selected for the group, if any. 
-    
-    ![](Images/GUID-6F006B5D-540C-46B4-9EB7-4BA1B7C9CBC3-low.png)
-5. Tap Done.
+1. Wählen Sie ein Objekt aus der Gruppe aus, wechseln Sie jedoch nicht in den Bearbeitungsmodus.
+2. Öffnen Sie die Palette Eigenschaften.
+3. Aktivieren Sie Fläche nach Ebene und wählen Sie Ebenen, um die Höhe für jede Ebene festzulegen.
+
+![](Images/GUID-4D8C214F-76D3-4B37-8E63-EA62DE5FC2D2-low.png)
+
+## Anwenden eines Materials
+
+1. Wählen Sie eine Gruppe aus, tippen Sie zweimal, um das Kontextmenü anzuzeigen, und tippen Sie auf Bearbeiten. ![](Images/GUID-1200972C-E22F-4B84-A1FA-F2FE3F9A096E-low.png)
+2. Wählen Sie Objekte oder Flächen in der Gruppe.
+3. Öffnen Sie die Palette auf der rechten Seite, und zeigen Sie die Registerkarte Materialien an.
+4. Tippen Sie auf Materialien, und verwenden Sie ein Material aus der Bibliothek oder, sofern vorhanden, ein bereits für die Gruppe gewähltes Material.
+
+![](Images/GUID-6F006B5D-540C-46B4-9EB7-4BA1B7C9CBC3-low.png)
+
+5. Tippen Sie auf Fertig.
+

@@ -1,13 +1,15 @@
-# Visual Format Options
 
-----
 
-Description of choices for visual style.
+# Optionen für visuelle Formate
 
-### Visual Style Options
+---
+
+Beschreibung der Optionen für den Bildstil.
+
+### Bildstiloptionen
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-BAD43E18-CA43-4B99-BA99-8E0FBFB9A892-low.png)   |   <br>* *Snap to Grid*: Toggle to turn grid snaps on and off.<br>* *Edge Contrast:* Raise or lower the contrast of how edges are displayed.<br>* *Silhouette Contrast:*Raise or lower the contrast of how silhouette edges are displayed.<br>* *Units*: Specify the sketch's units, Imperial or Metric<br>* *Visual Styles:* Change the appearance of your sketch by toggling features like sketchy lines, hidden lines, or extended lines. <br>    * *Display sketchy lines*: Change the appearance of your sketch by toggling making lines to appear that they have been sketched by hand<br>    * *Show hidden lines*: Display faint lines that are normally hidden by other faces<br>    * **Extend lines*: *Display short extensions where lines intersect<br>    * *Thick edges*: Widest lines possible<br>    * *Hide edges*: Toggle this feature to turn off edges in your model.<br>* *Levels*: Edit Level heights for the entire sketch (see Apply Levels for more details)<br>* *Display Levels: *Toggle the visibility of levels<br>  |
-| ![](Images/GUID-29D35485-A0EA-445B-AE2E-52EBD3BA3268-low.png)   |   <br>* *Display Grid:* Toggle the visibility of the grid<br>* *Display axes: *Toggle the visibility of the coordinate system axes<br>* *Display north arrow: *Toggle the visibility of the north arrow<br>* *Show Watertight Issue: *Used for 3D printing to ensure model integrity<br>  |
+| ![](Images/GUID-BAD43E18-CA43-4B99-BA99-8E0FBFB9A892-low.png) | <br>* *Rasterfang*: Mit dieser Funktion aktivieren oder deaktivieren Sie den Rasterfang.<br>* *Kantenkontrast:* Verstärken oder reduzieren Sie den Kontrast bei der Anzeige von Kanten.<br>* *Silhouettenkontrast:* Verstärken oder reduzieren Sie den Kontrast bei der Anzeige von Silhouettenkanten.<br>* *Einheiten*: Legen Sie hier die Einheiten für die Skizze fest: Britisch oder metrisch<br>* *Bildstile:* Ändern Sie die Darstellung der Skizze durch Aktivieren oder Deaktivieren von Funktionen wie skizzenartigen Linien, verdeckten Linien oder verlängerten Linien. <br> * *Display sketchy lines*: Ändern Sie die Darstellung Ihrer Skizze durch Aktivieren oder Deaktivieren einer Liniendarstellung, die wie von Hand gezeichnet wirkt. <br> * *Show hidden lines*: Zeigt schwache Linien an Stellen an, die normalerweise durch andere Flächen verdeckt sind.<br> * **Dehnen von Linien*: *Zeigt kurze Verlängerungen an den Schnittpunkten von Linien an.<br> * *Dicke Kanten*: Die dicksten möglichen Linien.<br> * *Kanten ausblenden*: Durch Aktivieren bzw. Deaktivieren dieser Funktion blenden Sie Kanten im Modell ein bzw. aus.<br>* *Ebenen*: Ändern Sie Ebenenhöhen für die gesamte Skizze (siehe Anwenden von Ebenen für weitere Informationen).<br>* *Display levels: Blendet die Ebenen ein oder aus.<br> |
+| ![](Images/GUID-29D35485-A0EA-445B-AE2E-52EBD3BA3268-low.png) | <br>* *Display grid*: Blendet das Raster ein oder aus.<br>* *Display axes*: Blendet die Achsen des Koordinatensystems ein oder aus.<br>* *Display north arrow: *Blendet den Nordpfeil ein oder aus.<br>* *Dichtheitsprobleme: *Wird beim 3D-Druck zur Sicherunger Integrität des Modells verwendet.<br> |
 
